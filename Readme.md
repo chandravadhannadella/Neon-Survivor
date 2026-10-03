@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="[assets/banner/neon-survivor-banner.png](https://github.com/chandravadhannadella/Neon-Survivor/blob/main/assests/screenshots/start.png?raw=true)" alt="Neon Survivor Banner" width="100%">
+  <img src="https://github.com/chandravadhannadella/Neon-Survivor/blob/main/assests/screenshots/start.png?raw=true" alt="Neon Survivor Banner" width="100%">
 </p>
 
 <p align="center">
