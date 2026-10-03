@@ -455,29 +455,6 @@ Areas covered by source-level validation include:
 A complete interactive browser playthrough should still be performed after any major gameplay modification.
 
 ---
-
-## 📸 Screenshots and Gameplay
-
-Screenshots and gameplay recordings will be added here to showcase the game's visual design and mechanics.
-
-### Arena Gameplay
-
-![Arena Gameplay](assets/screenshots/gameplay.png)
-
-### Boss Encounter
-
-![Boss Encounter](assets/screenshots/boss-fight.png)
-
-### Campaign Victory
-
-![Campaign Victory](assets/screenshots/victory-screen.png)
-
-### Gameplay GIF
-
-![Gameplay Demo](assets/gifs/gameplay-demo.gif)
-
----
-
 ## 🚀 Roadmap
 
 Potential future improvements:
@@ -565,8 +542,6 @@ A license can be added later to define how others may use, modify, and distribut
 ## 👨‍💻 Author
 
 **Chandravadhan Nadella**
-
-B.Tech — Artificial Intelligence and Machine Learning
 
 GitHub: [@chandravadhannadella](https://github.com/chandravadhannadella)
 
