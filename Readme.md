@@ -66,10 +66,6 @@ The game combines:
 
 ### Gameplay Demonstration
 
-<p align="center">
-  <img src="assets/gifs/gameplay-demo.gif" alt="Neon Survivor Gameplay Demonstration" width="90%">
-</p>
-
 ---
 
 ## ✨ Features
