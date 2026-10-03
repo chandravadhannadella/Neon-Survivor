@@ -57,7 +57,7 @@ The game combines:
 ## 🌌 Game Preview
 
 <p align="center">
-  <img src="assets/screenshots/gameplay.png" alt="Neon Survivor Gameplay" width="90%">
+  <img src="https://github.com/chandravadhannadella/Neon-Survivor/blob/main/assests/screenshots/main.png?raw=true" width="90%">
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@ Boss encounters include:
 - Final boss defeat feedback
 
 <p align="center">
-  <img src="assets/screenshots/boss-fight.png" alt="Neon Survivor Boss Fight" width="90%">
+  <img src="https://github.com/chandravadhannadella/Neon-Survivor/blob/main/assests/screenshots/Screenshot%202026-10-03%20171304.png?raw=true" alt="Neon Survivor Boss Fight" width="90%">
 </p>
 
 ### 🚀 Player Progression
@@ -250,7 +250,7 @@ During the final encounter:
 Completing the campaign triggers a dedicated victory screen.
 
 <p align="center">
-  <img src="assets/screenshots/victory-screen.png" alt="Neon Survivor Victory Screen" width="90%">
+  <img src="https://github.com/chandravadhannadella/Neon-Survivor/blob/main/assests/screenshots/victory.png?raw=true" alt="Neon Survivor Victory Screen" width="90%">
 </p>
 
 ### Victory Screen
